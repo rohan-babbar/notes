@@ -59,7 +59,7 @@
             <img src="img/B.jpg" height="200" width="200">
         </div>
         <p>Some text..</p>
-        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod
+        <p>Sunt  culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod
             tempor
             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
